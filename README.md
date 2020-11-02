@@ -13,7 +13,6 @@ It uses many APIs to display information. It shows country specific new, weather
 ## Technology/ Stack used :mortar_board:
 - Java 
 - XML
-- firebase
 - Android Studio
 - Retrofit
 
