@@ -1,0 +1,2 @@
+# NewsApp
+Mini Project
