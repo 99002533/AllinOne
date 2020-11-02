@@ -19,9 +19,9 @@ It uses many APIs to display information. It shows country specific new, weather
 
 ## Screenshots :camera:
 
-|                        Main menu                     |                  Side nevigation bar                  |                          News                         |
-| :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|  <img src="Screenshot/mainMenu.png" height="600">    |     <img src="Screenshot/newBar.png" height="600">    |      <img src="Screenshot/news.png" height="600">     |
+|                        Main menu                     |                          News                         |
+| :--------------------------------------------------: | :---------------------------------------------------: |
+|  <img src="Screenshot/mainMenu.png" height="600">    |      <img src="Screenshot/news.png" height="600">     |
 
 |                       Weather                        |                        Meme                           |                         Movies                        |
 | :--------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
